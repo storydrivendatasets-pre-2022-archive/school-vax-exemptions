@@ -1,0 +1,40 @@
+"tx-vax-exemptions-landing-page.html":
+  title: "DSHS Texas Statistics on Conscientious Exemptions to School Immunizations"
+  urls:
+    original: "https://www.dshs.texas.gov/immunize/coverage/Conscientious-Exemptions-Data.shtm"
+
+"tx-vax-exemptions-counties-2010-2017.pdf":
+  title: "Texas Conscientious Exemptions by County, 2010-2017"
+  fetched_at: 2018-06-15
+  urls:
+    original: "https://www.dshs.texas.gov/immunize/docs/school/Conscientious-Exemption-Data-for-Texas-2010---17-(PDF).pdf"
+
+"tx-vax-exemptions-school-districts-2012.pdf":
+  title: "Texas Conscientious Exemptions by School District"
+  fetched_at: 2018-06-15
+  urls:
+    original: "https://www.dshs.texas.gov/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589995696"
+
+"tx-vax-exemptions-school-districts-2013.pdf":
+  title: "Texas Conscientious Exemptions by School District"
+  fetched_at: 2018-06-15
+  urls:
+    original: "https://www.dshs.texas.gov/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589995695"
+
+"tx-vax-exemptions-school-districts-2014.pdf":
+  title: "Texas Conscientious Exemptions by School District"
+  fetched_at: 2018-06-15
+  urls:
+    original: "https://www.dshs.texas.gov/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589998728"
+
+"tx-vax-exemptions-school-districts-2015.pdf":
+  title: "Texas Conscientious Exemptions by School District"
+  fetched_at: 2018-06-15
+  urls:
+    original: "https://www.dshs.texas.gov/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884902913"
+
+"tx-vax-exemptions-school-districts-2016.pdf":
+  title: "Texas Conscientious Exemptions by School District"
+  fetched_at: 2018-06-15
+  urls:
+    original: "https://www.dshs.texas.gov/immunize/docs/school/2016-2017-Conscientious-Exemption-by-School-District.pdf"
